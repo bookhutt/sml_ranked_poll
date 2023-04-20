@@ -31,6 +31,9 @@ Ultimately, the ethics of any poll come down to transparancy and open discussion
 
 * make sure you have a completed 'vote_totals.csv' file in the same folder as the script
 * type: python sml_ranked_poll.py
-```
-code blocks for commands
-```
+
+### Outcome
+The ranked order winner is Tammy Forrest with 21.5 votes!
+The pass-the-post winner is Tammy Forrest with 18 votes!
+
+
