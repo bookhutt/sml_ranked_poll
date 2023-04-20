@@ -3,9 +3,9 @@ The South Mud Lake Ranked Poll Calculator
 
 ## Description
 
-A simple-to-use tool for calculating the results of a ranked vote style poll. A ranked poll is where those being asked for their opinion get two or more votes, 1st choice, second choice, etc. There's numerous ways to set up a ranked poll, but for the purposes of settling The South Mud Lake Open Space renaming issue it seemed prudent to keep things as simple as possible to start. 
+A simple-to-use tool for calculating the results of a ranked vote style poll. A ranked poll is where those being asked for their opinion get two or more votes, first choice, second choice, etc. There's numerous ways to set up a ranked poll, but for the purposes of settling The South Mud Lake Open Space renaming issue it seemed prudent to keep things as simple as possible to start. 
 
-Our poll took place in an agreed opon area surrouding the open space. The poll was conducted by hand. 65 Households in the neighbobrhood were polled. 39 Neighbors in 23 of those households registered an opinion. A breif description of each candidate name was given, along with the option for those being polled to nominate a name of their choice. 
+Our poll took place in an agreed opon area surrouding the open space. The poll was conducted by hand. 65 Households in the neighbobrhood were visited. 39 Neighbors in 23 of those households registered an opinion. A breif description of each candidate name was given, along with the option for those being polled to nominate a name of their choice. 
 
 This tool was designed to tabulate the results of that poll. It also tabulates first-past-the-post results.
 
