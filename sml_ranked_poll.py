@@ -14,5 +14,9 @@ total_votes = df['first_choice_total'].add(second_place_votes, fill_value=0)
 
 # Determine the winner
 winner = total_votes.idxmax()
+ptp_winner = df['first_choice_total'].idxmax()
 
-print(f"The winner is {winner} with {total_votes[winner]} votes!")
+print(f"The ranked order winner is {winner} with {total_votes[winner]} votes!")
+print(f"The pass-the-post winner is {ptp_winner} with {df['first_choice_total'][ptp_winner]} votes!")
+
+
