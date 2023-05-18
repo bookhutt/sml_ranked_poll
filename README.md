@@ -22,6 +22,8 @@ Critics may say that polling of this nature can lead to strategic voting and oth
 
 Ultimately, the ethics of any poll come down to transparancy and open discussion.
 
+Following the withdrawl of Tammy Forrest, the original winner of the poll and the changing of two votes, the poll is now based on the vote_totals_5_18.csv file
+
 ### Dependencies
 
 * python
@@ -33,7 +35,7 @@ Ultimately, the ethics of any poll come down to transparancy and open discussion
 * type: python sml_ranked_poll.py
 
 ### Outcome
-The ranked order winner is Tammy Forrest with 21.5 votes!
-The pass-the-post winner is Tammy Forrest with 18 votes!
+The ranked order winner is Moose Meadows with 9.0 votes!
+The pass-the-post winner is Moose Meadows with 8 votes!
 
 
